@@ -93,17 +93,11 @@
 	line-height: 17.4px;
 }
 
-.hero__text-bottom {
-	margin: 0;
-	padding: 0;
-	font-weight: 400;
-	font-size: 14px;
-	line-height: 17.4px;
 }
 
 .footer {
 	max-width: 100%;
-	background-color: #fdf8f8;
+	background-color: #1b1b1b;
 }
 
 .footer__wrapper {
