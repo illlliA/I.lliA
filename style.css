@@ -93,9 +93,7 @@
 	line-height: 17.4px;
 }
 .pic__right {
-	max-width: 512px;
-	height: 512px;
-	margin-right: 250px;
+	margin-right: 36px;
 	display: flex;
 }
 
@@ -114,7 +112,7 @@
 }
 
 .footer__cake {
-	color: rgb(255, 255, 255);
+	color: rgb(f, f, f);
 	max-width: 19%;
 	font-weight: 400;
 	font-size: 12px;
