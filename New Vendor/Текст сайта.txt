@@ -11,3 +11,11 @@ Mango
 
 ООО «Айс бейби»
 2018-2022
+
+menu 1B1B1B
+Background 1E1E1E
+Button 3B37FF
+
+Gradient name
+1 — E60227
+2 — FFD23A
