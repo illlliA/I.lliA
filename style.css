@@ -1,0 +1,197 @@
+
+.link {
+  text-decoration: none;
+  transition: .5s linear;
+}
+  
+.link:hover {
+  margin-top: 5px;
+  border-bottom: #fff 1px solid;
+  opacity: 0.3;
+    
+}
+  
+.list {
+  margin: 0;
+  padding: 0;
+	list-style-type: none;
+}
+
+.page {
+	margin: 0 auto;
+	/*max-width: 1000px;*/
+	font-family: 'inter';
+}
+
+.header {
+	background-color: #1b1b1b;
+}
+
+.header__wrapper {
+	max-width: 1021px;
+	margin: 0 auto;
+	padding: 22px 0 20px 0;
+	display: flex;
+	justify-content: space-between;
+}
+
+.header__logo-link {
+
+}
+
+.header__logo {
+	max-width: 112px;
+	height: 37px;
+	margin-right: 37px;
+}
+
+.header__list {
+	display: flex;
+}
+
+.header__items {
+	margin-right: 45px;
+}
+
+.header__items:last-child {
+	margin-right: 0;
+}
+
+.header__list-link {
+	color: #fff;
+}
+
+.header__list-link:visited {
+	color: inherit;
+}
+
+.container {
+  max-width: 736px;
+  margin: 0 auto;
+}
+
+.main {
+ background-color: #1e1e1e;
+}
+
+.hero {
+	margin: 0 auto;
+	max-width: 992px;
+	
+}
+
+.hero__wrapper {
+	display: flex;
+	padding-top: 63px;
+}
+
+.hero__col-left {
+	max-width: 50%;
+	display: flex;
+	flex-direction: column;
+}
+
+.hero__image-left-up {
+	width: 143px;
+	height: 41px;
+}
+
+.hero__image-left-bottom {
+	width: 251px;
+	height: 77px;
+}
+
+.hero__text {
+	max-width: 77%;
+	color: #fff;
+	font-size: 27px;
+	font-weight: 400;
+	line-height: 31px;
+}
+
+.hero__subtitle {
+	font-family: ;
+	color: #fff;
+  font-size: 60px;
+	line-height: 30px;
+	font-weight: 700;
+}
+
+.hero__button {
+	padding: 15px 54px;
+	max-width: 211px;
+	background-color: #3b37ff;
+	border-radius: 11px;
+}
+
+.hero__link {
+	color: #fff;
+	/*font-family: ;*/
+	font-size: 25px;
+	line-height: 19px;
+	font-weight: 400;
+	border-bottom: none;
+}
+
+.hero__col-right {
+	max-width: 50%;
+}
+
+.hero__image {
+
+}
+
+.title {
+	margin: 0 0 13px 0;
+	padding: 0;
+	font-weight: 800;
+	font-size: 34px;
+	line-height: 41.15px;
+}
+
+
+
+.footer {
+	max-width: 100%;
+	background-color: #1b1b1b;
+}
+
+.footer__wrapper {
+	max-width: 1024px;
+	margin: 0 auto;
+	padding: 22px 0 21px 0;
+	display: flex;
+	justify-content: space-between;
+	
+}
+
+.footer__cake {
+	max-width: 13%;
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 13.4px;
+	color: #fff;
+}
+
+.footer__list {
+	display: flex;
+}
+
+.footer__items {
+	margin-right: 6px;
+}
+
+.footer__items:last-child {
+	margin: 0;
+}
+
+.footer__img-social:hover {
+	margin: 0;
+	width: 16px;
+	height: 16px;
+	
+}
+
+.footer__img-social:hover {
+	border-bottom: none;
+}
