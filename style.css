@@ -91,16 +91,45 @@
 	font-weight: 400;
 	font-size: 14px;
 	line-height: 17.4px;
-}
-.pic__right {
-	margin-right: 36px;
-	display: flex;
+	
+	.hero__subtitle {
+  margin: 0 0 30px 0;
+  color: white;
 }
 
+.hero__button {
+  width: 120px;
+  height: 30px;
+  border: none;
+  background-color: blue;
+  border-radius: 5px;
+  cursor: pointer;
+  transition-duration: 0.4s;
+}
+
+.hero__button:hover {
+  opacity: 0.5;
+}
+
+.hero__link {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+
+.hero__col-right {
+  overflow: hidden;
+}
+
+.hero__image {.4s;
+  max-width: 200px;
+  height: 300px;
+  overflow: hidden;
+}
 
 .footer {
 	max-width: 100%;
-	background-color: #000000;
+	background-color: #1B1B1B;
 }
 
 .footer__wrapper {
